@@ -97,6 +97,6 @@ const pokemons = [
   },
 ];
 
-export const getPokemons = () =>{
+export const getPokemons = () => {
   return pokemons;
 }
